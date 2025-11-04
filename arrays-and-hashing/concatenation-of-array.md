@@ -15,7 +15,7 @@ class Solution {
     }
 }
 ```
-##### TC: $$O(n)$$
+$$ Time Complexity: O(n) $$
 ##### SC: $$O(n)$$
 
 ### Iteration - One Pass
