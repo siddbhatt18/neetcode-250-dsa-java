@@ -12,10 +12,11 @@ class Solution {
             }
         }
         return result;
+        // time complexity: O(n)
+        // space complexity: O(n)
     }
 }
 ```
-> Time Complexity: O(n) and Space Complexity: O(n)
 
 ## Iteration - One Pass
 ```java
@@ -28,7 +29,8 @@ class Solution {
             ans[i + n] = nums[i];
         }
         return ans;
+        // time complexity: O(n)
+        // space complexity: O(n)
     }
 }
 ```
-> Time Complexity: O(n) and Space Complexity: O(n)
