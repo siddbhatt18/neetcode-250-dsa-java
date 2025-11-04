@@ -16,7 +16,7 @@ class Solution {
 }
 ```
 > Time Complexity: O(n)
-$$ Space Complexity: O(n) $$
+>  Space Complexity: O(n)
 
 ### Iteration - One Pass
 ```java
