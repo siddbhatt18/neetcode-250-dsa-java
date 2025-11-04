@@ -15,8 +15,7 @@ class Solution {
     }
 }
 ```
-##### Time Complexity: O(n)
-##### Space Complexity: O(n)
+##### TC: O(n) & SC: O(n)
 
 ### Iteration - One Pass
 ```java
