@@ -1,4 +1,4 @@
-## Iteration - Two Pass
+### Iteration - Two Pass
 ```java
 class Solution {
     public int[] getConcatenation(int[] nums) {
@@ -18,7 +18,7 @@ class Solution {
 }
 ```
 
-## Iteration - One Pass
+### Iteration - One Pass
 ```java
 class Solution {
     public int[] getConcatenation(int[] nums) {
