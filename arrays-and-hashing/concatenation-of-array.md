@@ -1,4 +1,4 @@
-### Iteration - Two Pass
+## Iteration - Two Pass
 ```java
 class Solution {
     public int[] getConcatenation(int[] nums) {
@@ -17,7 +17,7 @@ class Solution {
 ```
 > Time Complexity: O(n) and Space Complexity: O(n)
 
-### Iteration - One Pass
+## Iteration - One Pass
 ```java
 class Solution {
     public int[] getConcatenation(int[] nums) {
